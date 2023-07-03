@@ -1,2 +1,2 @@
 # IdeaAppWorkshop
-This is the Idea app Workshop conducted by Pw Skill
+This is the Idea app Workshop 
